@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of COVID-19](https://upload.wikimedia.org/wikipedia/commons/8/82/SARS-CoV-2_without_background.png)
