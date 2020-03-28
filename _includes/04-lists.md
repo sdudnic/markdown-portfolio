@@ -6,14 +6,15 @@
 3. Eau
    1. Plate
    2. Gaseuseee
-   
-  </details>
+
+</details>
   
-  <details>
+<details>
    <summary>Unordered</summary>
    
 * Ala
 * Bala
   * Bala portocala
   * Bala kukeala
+
 </details>
